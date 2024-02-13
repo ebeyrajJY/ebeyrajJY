@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ebey raj JY
-- 👀 I’m interested in Python, Machine learning, Artificial intelligence, Arduino Project & Programming (C++), Raspberry Pi   
+- 👀 I’m interested in Python, Machine learning, Artificial intelligence, & Robotics   
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate Developer, Coding Contests ,Create a Startup
 
